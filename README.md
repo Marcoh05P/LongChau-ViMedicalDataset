@@ -17,7 +17,7 @@
 
 ## 📌 Introduction
 
-The **LongChau-ViMedical Dataset** contains over 1,600 Vietnamese medical entries, including **disease categories**, **specific diseases** and their **symptoms**, crawled from [Long Chau Pharmacy](https://nhathuoclongchau.com.vn/).  
+The **LongChau-ViMedical Dataset** contains over 1,500 Vietnamese medical entries, including **disease categories**, **specific diseases** and their **symptoms**, crawled from [Long Chau Pharmacy](https://nhathuoclongchau.com.vn/).  
 
 This dataset is designed to support **Natural Language Processing (NLP)** and other AI research in the Vietnamese medical domain. Key applications include:
 
