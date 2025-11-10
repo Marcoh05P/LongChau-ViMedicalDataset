@@ -94,4 +94,4 @@ Please follow standard commit message conventions and make pull requests against
 **Disclaimer**: This dataset is **not a substitute for professional medical advice, diagnosis or treatment**. Always seek advice from qualified healthcare providers.
 
 ---
-*© 2025 MACORH05P – LongChau-ViMedicalDataset – Ho Chi Minh City Open University*
+*© 2025 Marcoh05P – LongChau-ViMedicalDataset – Ho Chi Minh City Open University*
