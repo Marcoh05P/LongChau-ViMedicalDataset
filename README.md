@@ -32,7 +32,7 @@ This dataset is designed to support **Natural Language Processing (NLP)** and ot
 
 - **Source:** [Long Chau Pharmacy](https://nhathuoclongchau.com.vn/)  
 - **Language:** Vietnamese  
-- **Total Rows:** 1,600+  
+- **Total Rows:** 1,500+  
 - **Format:** CSV (Comma-Separated Values)  
 
 ### Data Structure
