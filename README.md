@@ -4,7 +4,7 @@
   <img src="./docs/longchaupharmacy.png" alt="Long Chau Pharmacy logo" width="300">
 </p>
 
-<p align="left">
+<p align="center">
   <img alt="Dataset Version" src="https://img.shields.io/badge/dataset-v1.0.0-blue.svg">
   <img alt="Language" src="https://img.shields.io/badge/language-Vietnamese-brightgreen.svg">
   <img alt="Rows" src="https://img.shields.io/badge/rows-1500+-orange.svg">
