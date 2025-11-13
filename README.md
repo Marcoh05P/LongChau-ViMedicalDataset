@@ -9,8 +9,6 @@
   <img alt="Language" src="https://img.shields.io/badge/language-Vietnamese-brightgreen.svg">
   <img alt="Rows" src="https://img.shields.io/badge/rows-1500+-orange.svg">
   <img alt="License" src="https://img.shields.io/badge/license-CC%20BY--NC%204.0-green.svg">
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Marcoh05P/LongChau-ViMedicalDataset?style=social">
-  <img alt="GitHub Forks" src="https://img.shields.io/github/forks/Marcoh05P/LongChau-ViMedicalDataset?style=social">
 </p>
 
 ---
